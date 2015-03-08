@@ -1,0 +1,14 @@
+.html5-logo {
+    background: url(../img/html5-logo.png);
+}
+
+.small-icon{
+    width: auto;
+    height: 32px;
+    margin: 5px;
+}
+
+.flag-icon{
+    width: auto;
+    height: 15px;
+}
